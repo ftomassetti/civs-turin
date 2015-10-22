@@ -1,0 +1,7 @@
+namespace me.tomassetti.civs
+
+import java.lang.System.out.println as print
+import java.lang.System.err.println as eprint
+
+program Civs(String[] args) {	
+}
